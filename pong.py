@@ -1,4 +1,7 @@
 from turtle import Turtle, Screen 
+from ball import Ball
+from paddle import Paddle
+from scoreboard import Scoreboard
 import time 
 
 
